@@ -7,7 +7,7 @@
 
 In this project, I analyzed transactional data from an online retail store to understand sales trends, customer behavior, and popular products. Using exploratory data analysis and visualizations, I identified key patterns and insights to support data-driven decisions and improve store performance.
 
-<img width="900" height="700" alt="Screenshot 2025-11-19 062405" src="https://github.com/user-attachments/assets/2787e93f-022d-4f18-bf08-3fc23175b591" />
+<img width="500" height="350" alt="Screenshot 2025-11-19 062405" src="https://github.com/user-attachments/assets/2787e93f-022d-4f18-bf08-3fc23175b591" />
 
 
 ## [Fantasy Premier League Data Analysis](https://github.com/idAhmedAli/Fantasy-Premier-League-Data-Analysis)
